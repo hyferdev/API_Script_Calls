@@ -1,6 +1,6 @@
 # Json Scripting Practice
 
-~WORK IN PROGRESS~
+--WORK IN PROGRESS--
 
 **The Zen of Python, by Tim Peters**
 
